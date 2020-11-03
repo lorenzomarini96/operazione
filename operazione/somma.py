@@ -4,9 +4,7 @@ documentazione con sphinx."""
 
 def somma(x, y):
     """Funzione che somma due scalari e ne restituisce il risultato. x e y sono i valori 
-    dei due addendi."""
-
-
+    dei due addendi. Incredibile, forse ci sono riusciuto!!"""
     return x + y
 
 
